@@ -16,7 +16,7 @@ from Ui_chip_id_assignment import *
 from openpyxl import load_workbook
 import time
 import subprocess
-import pyautogui
+# import pyautogui
 import win32api
 import win32gui
 import win32con
