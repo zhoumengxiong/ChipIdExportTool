@@ -1,5 +1,6 @@
 {
     "terminal.integrated.cursorStyle": "line",
     "editor.fontFamily": "Source Code Pro",
-    "debug.console.fontFamily": "Source Code Pro"
+    "debug.console.fontFamily": "Source Code Pro",
+    "terminal.integrated.cursorBlinking": true
 }
