@@ -2,5 +2,6 @@
     "terminal.integrated.cursorStyle": "line",
     "editor.fontFamily": "Source Code Pro",
     "debug.console.fontFamily": "Source Code Pro",
-    "terminal.integrated.cursorBlinking": true
+    "terminal.integrated.cursorBlinking": true,
+    "python.pythonPath": "D:\\anaconda3\\envs\\env_py37\\python.exe"
 }
